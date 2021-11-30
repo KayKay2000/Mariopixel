@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+}
+
+.col {
+  height: 45px;
+}
+.red {
+  background: red;
+  color: red;
+}
+
+.brown {
+  background: brown;
+  color: brown;
+}
+
+.beige {
+  background: beige;
+  color: beige;
+}
+
+.blue {
+  background: blue;
+  color: blue;
+}
+
+.black {
+  background: black;
+  color: black;
+}
+
+.yellow {
+  background: yellow;
+  color: yellow;
+}
